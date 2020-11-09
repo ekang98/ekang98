@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ekang98/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ekang98/static/js/main.f62bd41d.chunk.js",
-    "main.js.map": "/ekang98/static/js/main.f62bd41d.chunk.js.map",
+    "main.css": "/ekang98/static/css/main.958f5328.chunk.css",
+    "main.js": "/ekang98/static/js/main.35ce5c54.chunk.js",
+    "main.js.map": "/ekang98/static/js/main.35ce5c54.chunk.js.map",
     "runtime-main.js": "/ekang98/static/js/runtime-main.fe6f33a8.js",
     "runtime-main.js.map": "/ekang98/static/js/runtime-main.fe6f33a8.js.map",
     "static/js/2.f6895b94.chunk.js": "/ekang98/static/js/2.f6895b94.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.bc8cca69.chunk.js": "/ekang98/static/js/3.bc8cca69.chunk.js",
     "static/js/3.bc8cca69.chunk.js.map": "/ekang98/static/js/3.bc8cca69.chunk.js.map",
     "index.html": "/ekang98/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/ekang98/static/css/main.ab7136cd.chunk.css.map",
+    "static/css/main.958f5328.chunk.css.map": "/ekang98/static/css/main.958f5328.chunk.css.map",
     "static/js/2.f6895b94.chunk.js.LICENSE.txt": "/ekang98/static/js/2.f6895b94.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/ekang98/static/media/logo.103b5fa1.svg"
+    "static/media/Homepage.css": "/ekang98/static/media/surfboard.af1d5aaa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fe6f33a8.js",
     "static/js/2.f6895b94.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.f62bd41d.chunk.js"
+    "static/css/main.958f5328.chunk.css",
+    "static/js/main.35ce5c54.chunk.js"
   ]
 }
