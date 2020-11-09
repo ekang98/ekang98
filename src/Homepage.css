@@ -1,0 +1,76 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+@font-face {
+  font-family: 'AvenirBlack';
+  src: url("fonts/AvenirLTStd-Black.otf");
+}
+@font-face {
+  font-family: 'AvenirMedium';
+  src: url("fonts/Avenir_Medium.ttf");
+}
+@font-face {
+  font-family: 'Circular';
+  src: url("fonts/Circular\ Std\ Medium.ttf");
+}
+
+.homepage-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.bio-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-top: 175px;
+  color: #5C7296;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  font-family: 'AvenirBlack';
+  font-size: 42px;
+  margin-bottom: 5px;
+}
+
+.surfboard {
+  background-image: url(surfboard.png);
+  background-size: contain;
+  width: 37px;
+  height: 37px;
+  margin-left: 15px;
+}
+
+.bio {
+  font-family: 'AvenirMedium';
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.links-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.link {
+  font-family: 'Circular';
+  font-size: 26px;
+  margin-right: 20px;
+  color: #5C7296;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
